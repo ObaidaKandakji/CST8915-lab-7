@@ -22,4 +22,3 @@ https://youtu.be/DfqLxZMmRtU
 
 **Does Azure Service Bus solve these issues?**  
 - **Yes**  since its a managed service Azure handles the high availability and storage requirements and we don't need to maintain RabbitMQ ourselves.  
-- 
